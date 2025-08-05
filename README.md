@@ -1,3 +1,3 @@
 # curly-spoon
 
-pr update check
+feature run

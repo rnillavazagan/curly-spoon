@@ -1,3 +1,3 @@
 # curly-spoon
 
-main test run-1
+main test run-3
